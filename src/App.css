@@ -1,3 +1,23 @@
+.bg-custom-COOL {
+  background-color: #80ffd9; 
+}
+
+.bg-custom-HOT {
+  background-color: #ff7e7e; 
+}
+
+.bg-custom-COLD {
+  background-color: #71aaff; 
+}
+
+.bg-custom-WARM {
+  background-color: #ffb070; 
+}
+
+.align-left{
+  text-align: left;
+}
+
 .App {
   text-align: center;
 }
